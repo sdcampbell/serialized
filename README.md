@@ -3,7 +3,7 @@ serialized is a Python script that detects serialized data in HTTP requests.
 
 ## Purpose
 
-The script takes input form stdin and expects a complete HTTP request. Some uses include cat'ing a file from the terminal, using the Burp Suite 'Piper' extension, or in a Caido workflow cmd.
+The script takes input from stdin and expects a complete HTTP request. Some uses include cat'ing a file from the terminal, using the Burp Suite 'Piper' extension, or in a Caido workflow cmd.
 
 It detects the following serialized data types:
 
