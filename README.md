@@ -19,3 +19,5 @@ Currently it has only been tested with PHP and Python. Submit an issue if it has
 Example:
 
 <img width="869" alt="image" src="https://github.com/user-attachments/assets/d338e070-fa88-4658-9229-2b056bc7c266" />
+
+<img width="849" alt="image" src="https://github.com/user-attachments/assets/ae89efb5-49d1-4040-aa63-7bf6e7fbd646" />
